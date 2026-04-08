@@ -176,3 +176,5 @@ This dataset helps insurance companies to:
 
 ![Insurance Dashboard](dashboard.png)
 
+https://github.com/munnap-blip/PowerBI/blob/main/Power_ScreenShot.png
+
