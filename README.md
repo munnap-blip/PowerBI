@@ -172,5 +172,7 @@ This dataset helps insurance companies to:
 - Improve **customer targeting and marketing**  
 
 ---
+## 📊 Dashboard Preview  
 
-!Screenshot 2026-04-07 135543.png
+![Insurance Dashboard](Screenshot 2026-04-07 135543.png)
+
